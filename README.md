@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zedeloc
 - 👀 I’m interested in computers, programming, music, and photography.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Javascript, HTML, and CSS through The Odin Project.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me desmondcole1990@gmail.com
 
